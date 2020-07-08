@@ -1,0 +1,12 @@
+header {
+    text-align: center;
+}
+
+.basic-info {
+    display: flex;
+    /* flex-direction: column; */
+}
+
+.jim-coopers-face {
+    order: 1;
+}
